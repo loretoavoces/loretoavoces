@@ -11,7 +11,7 @@
 
 ### Technologies
 
-JavaScript | CSS | HTML |Canvas | React.js | Node.js | Express.js | MongoDB | Git | GitHub | Handlebars.js | Bootstrap | Passport | Heroku | Postman | Trello | Slack.
+JavaScript | CSS | HTML | Canvas | React.js | Node.js | Express.js | MongoDB | Git | GitHub | Handlebars.js | Bootstrap | Passport | Heroku | Postman | Trello | Slack.
 
 ### Contact me...
 <i>By: <a href = "mailto: loretoavoces@gmail.com">Send Email</a></i> <br />
