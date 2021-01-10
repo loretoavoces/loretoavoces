@@ -11,6 +11,7 @@
 
 ### Contact me...
 <i><a href="https://www.linkedin.com/in/loreto-alvarez-voces/">Linkedin</a></i>
+<i><a href = "mailto: loretoavoces@gmail.com">Send Email</a></i>
 
 
 
