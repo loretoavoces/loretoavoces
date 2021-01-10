@@ -1,7 +1,5 @@
-### Hi there!! 👋 
-
-#### I´m Loreto Álvarez 
-
+### Hi there, I´m Loreto Álvarez 👋 
+<p>ifquiqwahwiueifuwuvsib</p>
 
 <i>Full Stack Web Developer Bootcamp <a href="https://www.ironhack.com/es">Ironhack Madrid</a></i> </br>
 <i>Advertising & Public Relations <a href="https://www.uva.es/export/sites/uva/">University of Valladolid</a></i>
