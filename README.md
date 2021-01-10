@@ -5,8 +5,10 @@
 <i>Full Stack Web Developer Bootcamp <a href="https://www.ironhack.com/es">Ironhack Madrid</a></i> </br>
 <i>Advertising & Public Relations <a href="https://www.uva.es/export/sites/uva/">University of Valladolid</a></i>
 
-:muscle: I’m currently improving my tech skills.
-🌱 I’m currently learning how wordpress works
+:muscle: I’m currently improving my tech skills. </br>
+🌱 I’m currently learning how wordpress works. </br>
+👯 I’m looking to collaborate on new projects to keep learning.
+
 
 <!--
 **loretoavoces/loretoavoces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
