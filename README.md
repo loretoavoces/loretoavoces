@@ -1,4 +1,4 @@
-## HI THERE, I´M LORETO ÁLVAREZ!! 👋 
+## Hi there, I´m Loreto Álvarez!! 👋 
 <p>I´m a publicist and full-stack web developer. I just finished the web development bootcamp at Ironhack Madrid and now I'm improving everything I've learned on my own :robot: </p>
 
 ### A little more about me...
