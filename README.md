@@ -9,7 +9,7 @@ Advertising & Public Relations <i><a href="https://www.uva.es/export/sites/uva/"
 🌱 I’m currently learning how wordpress works. </br>
 👯 I’m looking to collaborate on new projects to keep learning.
 
-### Technologies
+### Technologies...
 
 JavaScript | CSS | HTML | Canvas | React.js | Node.js | Express.js | MongoDB | Git | GitHub | Handlebars.js | Bootstrap | Passport | Heroku | Postman | Trello | Slack.
 
