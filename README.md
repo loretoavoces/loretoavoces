@@ -10,8 +10,8 @@
 👯 I’m looking to collaborate on new projects to keep learning.
 
 ### Contact me...
-- <i><a href = "mailto: loretoavoces@gmail.com">Send Email</a></i> <br />
-- <i><a href="https://www.linkedin.com/in/loreto-alvarez-voces/">Linkedin</a></i> 
+- <i>By: <a href = "mailto: loretoavoces@gmail.com">Send Email</a></i> <br />
+- <i>Or check my: <a href="https://www.linkedin.com/in/loreto-alvarez-voces/">Linkedin</a></i> 
 
 
 
