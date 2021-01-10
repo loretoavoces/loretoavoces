@@ -1,4 +1,4 @@
-### Hi there, I´m Loreto Álvarez 👋 <a href="https://www.linkedin.com/in/loreto-alvarez-voces/">Linkedin</a>
+### Hi there, I´m Loreto Álvarez 👋 <small><a href="https://www.linkedin.com/in/loreto-alvarez-voces/">Linkedin</a></small>
 
 <i> Full Stack Developer</i>
 <!--
