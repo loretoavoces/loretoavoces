@@ -1,6 +1,6 @@
 ### Hi there, I´m Loreto Álvarez 👋
 <hr />
-<button<a href="https://www.linkedin.com/in/loreto-alvarez-voces/">>Linkedin</a><button>
+<a href="https://www.linkedin.com/in/loreto-alvarez-voces/"><button>Linkedin<button></a>
 <!--
 **loretoavoces/loretoavoces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
