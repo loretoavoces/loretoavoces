@@ -9,6 +9,10 @@
 🌱 I’m currently learning how wordpress works. </br>
 👯 I’m looking to collaborate on new projects to keep learning.
 
+### Contact me...
+<i><a href="https://www.linkedin.com/in/loreto-alvarez-voces/">Linkedin</a></i>
+
+
 
 
 <!--
