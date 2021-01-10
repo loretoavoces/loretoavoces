@@ -1,6 +1,6 @@
 ### Hi there, I´m Loreto Álvarez 👋 <a href="https://www.linkedin.com/in/loreto-alvarez-voces/">Linkedin</a>
-*** <hr />
-<i>Full Stack Developer </i>
+
+<i>Full Stack Web Developer Bootcamp <a href="https://www.ironhack.com/es">Ironhack Madrid</a> </i>
 <!--
 **loretoavoces/loretoavoces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
