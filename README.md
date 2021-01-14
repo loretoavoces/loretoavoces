@@ -6,6 +6,7 @@ Full Stack Web Developer Bootcamp <i><a href="https://www.ironhack.com/es">Ironh
 Advertising & Public Relations <i><a href="https://www.uva.es/export/sites/uva/">University of Valladolid</a></i> <br />
 
 :muscle: I’m currently improving my tech skills. </br>
+🌱 I’m currently learning Hooks and Redux. </br>
 👯 I’m looking to collaborate on new projects to keep learning.
 
 ### Technologies...
