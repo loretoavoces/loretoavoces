@@ -1,7 +1,7 @@
 ## Hi there, I´m Loreto Álvarez!! 👋 
 <p>I´m a full-stack web developer and a publicist. I just finished the web development bootcamp at Ironhack Madrid and now I'm improving everything I've learned :robot: </p>
 
-### A little more about me...
+### A little more about me_
 Full Stack Web Developer Bootcamp <i><a href="https://www.ironhack.com/es">Ironhack Madrid</a></i> </br>
 Advertising & Public Relations <i><a href="https://www.uva.es/export/sites/uva/">University of Valladolid</a></i> <br />
 
@@ -9,13 +9,13 @@ Advertising & Public Relations <i><a href="https://www.uva.es/export/sites/uva/"
 🌱 Right now I´m learning Hooks and Redux. </br>
 👯 I’m looking to collaborate on new projects to keep learning.
 
-### Technologies...
+### Technologies_
 
 JavaScript | CSS3 | HTML5 | Canvas | React.js | Node.js | Express.js | MongoDB | Handlebars.js | Bootstrap | Passport | Heroku | Postman | Git | GitHub | Trello | Slack.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=loretoavoces&show_icons=true&theme=nightowl)
 
-### Contact me...
+### Contact me_
 By: <i><a href = "mailto: loretoavoces@gmail.com">Sending Email</a></i> <br />
 Or check my: <i><a href="https://www.linkedin.com/in/loreto-alvarez-voces/">Linkedin</a></i> 
 
