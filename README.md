@@ -18,7 +18,7 @@ By: <i><a href = "mailto: loretoavoces@gmail.com">Sending Email</a></i> <br />
 Or check my: <i><a href="https://www.linkedin.com/in/loreto-alvarez-voces/">Linkedin</a></i> 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=loretoavoces&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=loretoavoces&show_icons=true&theme=nightowl)
 
 
 <!--
