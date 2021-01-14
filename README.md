@@ -20,7 +20,7 @@ JavaScript | CSS3 | HTML5 | Canvas | React.js | Node.js | Express.js | MongoDB |
 
 ### Contact me_
 By: <i><a href = "mailto: loretoavoces@gmail.com">Sending Email</a></i> <br />
-Check my: <i><a href="https://www.linkedin.com/in/loreto-alvarez-voces/">Linkedin</a></i> 
+Check my: <i><a href="https://www.linkedin.com/in/loreto-alvarez-voces/">Linkedin</a></i> </br>
 Or follow me on: <i><a href="https://www.instagram.com/loretoavoces/">Instagram</a></i> 
 
 
