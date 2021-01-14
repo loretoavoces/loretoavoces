@@ -25,7 +25,7 @@ Check my: <i><a href="https://www.linkedin.com/in/loreto-alvarez-voces/">Linkedi
 Or follow me on: <i><a href="https://www.instagram.com/loretoavoces/">Instagram</a></i> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=compact&theme=nightowl" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loretoavoces&layout=compact&theme=nightowl" />
