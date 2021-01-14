@@ -13,9 +13,8 @@ Advertising & Public Relations <i><a href="https://www.uva.es/export/sites/uva/"
 
 JavaScript | CSS3 | HTML5 | Canvas | React.js | Node.js | Express.js | MongoDB | Handlebars.js | Bootstrap | Passport | Heroku | Postman | Git | GitHub | Trello | Slack.
 
-<p align="center">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=loretoavoces&show_icons=true&theme=nightowl)
-</p>
+
 ### Contact me...
 By: <i><a href = "mailto: loretoavoces@gmail.com">Sending Email</a></i> <br />
 Or check my: <i><a href="https://www.linkedin.com/in/loreto-alvarez-voces/">Linkedin</a></i> 
