@@ -13,9 +13,9 @@ Advertising & Public Relations <i><a href="https://www.uva.es/export/sites/uva/"
 
 JavaScript | CSS3 | HTML5 | Canvas | React.js | Node.js | Express.js | MongoDB | Handlebars.js | Bootstrap | Passport | Heroku | Postman | Git | GitHub | Trello | Slack.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=loretoavoces&show_icons=true&theme=nightowl)
+[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=loretoavoces&show_icons=true&theme=nightowl)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loretoavoces&layout=compact&theme=nightowl)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loretoavoces&layout=compact&theme=nightowl)
 
 
 ### Contact me_
