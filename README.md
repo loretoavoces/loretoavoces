@@ -1,7 +1,7 @@
 ## Hi there, I´m Loreto Álvarez!! 👋 
 <p>I´m a full-stack web developer and a publicist. I just finished the web development bootcamp at Ironhack Madrid and now I'm improving everything I've learned :robot: </p>
 
-### A little more about me_
+### _A little more about me
 Full Stack Web Developer Bootcamp <i><a href="https://www.ironhack.com/es">Ironhack Madrid</a></i> </br>
 Advertising & Public Relations <i><a href="https://www.uva.es/export/sites/uva/">University of Valladolid</a></i> <br />
 
