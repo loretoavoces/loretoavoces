@@ -16,7 +16,7 @@ JavaScript | CSS3 | HTML5 | Canvas | React.js | Node.js | Express.js | MongoDB |
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=nightowl)
 
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loretoavoces&layout=compact&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loretoavoces&layout=compact&theme=nightowl)
 
 
 ### Contact me_
