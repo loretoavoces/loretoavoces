@@ -13,7 +13,7 @@ Advertising & Public Relations <i><a href="https://www.uva.es/export/sites/uva/"
 
 JavaScript | CSS3 | HTML5 | Canvas | React.js | Node.js | Express.js | MongoDB | Handlebars.js | Bootstrap | Passport | Heroku | Postman | Git | GitHub | Trello | Slack.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=nightowl)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=loretoavoces&show_icons=true&theme=nightowl)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loretoavoces&layout=compact&theme=nightowl)
@@ -25,7 +25,7 @@ Check my: <i><a href="https://www.linkedin.com/in/loreto-alvarez-voces/">Linkedi
 Or follow me on: <i><a href="https://www.instagram.com/loretoavoces/">Instagram</a></i> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=loretoavoces&show_icons=compact&theme=nightowl" />
+  <img align="center" size="small" src="https://github-readme-stats.vercel.app/api?username=loretoavoces&show_icons=compact&theme=nightowl" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loretoavoces&layout=compact&theme=nightowl" />
