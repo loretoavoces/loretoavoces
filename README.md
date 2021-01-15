@@ -14,10 +14,10 @@ Advertising & Public Relations <i><a href="https://www.uva.es/export/sites/uva/"
 JavaScript | CSS3 | HTML5 | Canvas | React.js | Node.js | Express.js | MongoDB | Handlebars.js | Bootstrap | Passport | Heroku | Postman | Git | GitHub | Trello | Slack.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="43%" src="https://github-readme-stats.vercel.app/api?username=loretoavoces&show_icons=true&theme=nightowl" />
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=loretoavoces&show_icons=true&theme=nightowl" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loretoavoces&layout=compact&theme=nightowl" />
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loretoavoces&layout=compact&theme=nightowl" />
 </a>
 
 ### Contact me_
