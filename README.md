@@ -17,7 +17,7 @@ JavaScript | CSS3 | HTML5 | Canvas | React.js | Node.js | Express.js | MongoDB |
   <img align="center" width="43%" src="https://github-readme-stats.vercel.app/api?username=loretoavoces&show_icons=true&theme=nightowl" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loretoavoces&layout=compact&theme=nightowl" />
+  <img align="center" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loretoavoces&layout=compact&theme=nightowl" />
 </a>
 
 ### Contact me_
