@@ -16,7 +16,7 @@ JavaScript(ES6) | CSS3 | HTML5 | Canvas | React.js | Node.js | Express.js | Mong
 <a href="https://github.com/loretoavoces">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=loretoavoces&show_icons=true&theme=nightowl" />
 </a>
-<a href="https://github.com/loretoavoces">
+<a href="https://github.com/loretoavoces?tab=repositories">
   <img align="center" width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loretoavoces&layout=compact&theme=nightowl" />
 </a>
 
