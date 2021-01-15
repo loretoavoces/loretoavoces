@@ -18,6 +18,12 @@ JavaScript | CSS3 | HTML5 | Canvas | React.js | Node.js | Express.js | MongoDB |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loretoavoces&layout=compact&theme=nightowl)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" size="sm" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 ### Contact me_
 By: <i><a href = "mailto: loretoavoces@gmail.com">Sending Email</a></i> <br />
