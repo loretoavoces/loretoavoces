@@ -6,12 +6,11 @@ Full Stack Web Developer Bootcamp <i><a href="https://www.ironhack.com/es">Ironh
 Advertising & Public Relations <i><a href="https://www.uva.es/export/sites/uva/">University of Valladolid</a></i> <br />
 
 :muscle: I’m currently improving my tech skills. </br>
-🌱 Right now I´m learning `Hooks` and `Redux`. </br>
 👯 I’m looking to collaborate on new projects to keep learning.
 
 ### Technologies_
 
-JavaScript(ES6) | CSS3 | HTML5 | Canvas | React.js | Hooks | Node.js | Express.js | MongoDB | Handlebars.js | Bootstrap | Styled Components | Material UI | Passport | Heroku | Postman | Git | GitHub | Trello | Slack.
+JavaScript(ES6) | TypeScript | Tailwind | CSS3 | HTML5 | Canvas | React.js | Hooks | Node.js | Express.js | MongoDB | Handlebars.js | Bootstrap | Styled Components | Material UI | Passport | Heroku | Postman | Git | GitHub | Trello | Slack.
 
 <a href="https://github.com/loretoavoces">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=loretoavoces&show_icons=true&theme=nightowl" />
