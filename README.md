@@ -7,6 +7,7 @@ Advertising & Public Relations <i><a href="https://www.uva.es/export/sites/uva/"
 
 :muscle: I’m currently improving my tech skills. </br>
 👯 I’m looking to collaborate on new projects to keep learning.
+🌱 I’m currently learning `Angular`.
 
 ### Technologies_
 
