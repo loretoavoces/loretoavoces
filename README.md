@@ -1,9 +1,9 @@
 ## Hi there, I´m Loreto Álvarez!! 👋 
-<p>I´m a Full Stach web developer and a publicist, graduated on the Intensive Web Development Bootcamp at Ironhack Madrid. Now working as a Front-end developer on <i><a href="https://es.nttdata.com/">NTTDATA Spain</a></i> :robot: </p>
+<p>I´m a Full Stach web developer and a publicist, graduated on the Intensive Web Development Bootcamp at Ironhack Madrid. Now working as a Front-end developer on <i><a href="https://es.nttdata.com/" target="_blank">NTTDATA Spain</a></i> :robot: </p>
 
 ### A little more about me_
-Full Stack Web Developer Bootcamp <i><a href="https://www.ironhack.com/es">Ironhack Madrid</a></i> </br>
-Advertising & Public Relations <i><a href="https://www.uva.es/export/sites/uva/">University of Valladolid</a></i> <br />
+Full Stack Web Developer Bootcamp <i><a href="https://www.ironhack.com/es" target="_blank">Ironhack Madrid</a></i> </br>
+Advertising & Public Relations <i><a href="https://www.uva.es/export/sites/uva/" target="_blank">University of Valladolid</a></i> <br />
 
 :muscle: I’m currently improving my tech skills. </br>
 👯 I’m looking to collaborate on new projects to keep learning. </br>
@@ -21,9 +21,9 @@ JavaScript(ES6) | Anguar | React | Hooks | Node | Express | MongoDB | TypeScript
 </a>
 
 ### Contact me_
-By: <i><a href = "mailto: loretoavoces@gmail.com">Sending Email</a></i> <br />
-Check my: <i><a href="https://www.linkedin.com/in/loreto-alvarez-voces/">Linkedin</a></i> </br>
-Or follow me on: <i><a href="https://www.instagram.com/loretoavoces/">Instagram</a></i> 
+By: <i><a href = "mailto: loretoavoces@gmail.com" target="_blank">Sending Email</a></i> <br />
+Check my: <i><a href="https://www.linkedin.com/in/loreto-alvarez-voces/" target="_blank">Linkedin</a></i> </br>
+Or follow me on: <i><a href="https://www.instagram.com/loretoavoces/" target="_blank">Instagram</a></i> 
 
 
 <!--
