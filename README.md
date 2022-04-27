@@ -1,5 +1,5 @@
 ## Hi there, I´m Loreto Álvarez!! 👋 
-<p>I´m a Full Stach web developer and a publicist, graduated on the Intensive Web Development Bootcamp at Ironhack Madrid. Now working as a Front-end developer on <i><a href="https://es.nttdata.com/" target="_blank">NTTDATA Spain</a></i> :robot: </p>
+<p>I´m a Full Stach web developer and a publicist, graduated on the Intensive Web Development Bootcamp at Ironhack Madrid. Now working as a Front-end developer on <i><a href="https://es.nttdata.com/" target="blank">NTTDATA Spain</a></i> :robot: </p>
 
 ### A little more about me_
 Full Stack Web Developer Bootcamp <i><a href="https://www.ironhack.com/es" target="_blank">Ironhack Madrid</a></i> </br>
