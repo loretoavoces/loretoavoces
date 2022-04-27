@@ -11,7 +11,7 @@ Advertising & Public Relations <i><a href="https://www.uva.es/export/sites/uva/"
 
 ### Technologies_
 
-JavaScript(ES6) | TypeScript | Tailwind | CSS3 | HTML5 | Canvas | React.js | Hooks | Node.js | Express.js | MongoDB | Handlebars.js | Bootstrap | Styled Components | Material UI | Passport | Heroku | Postman | Git | GitHub | Trello | Slack.
+JavaScript(ES6) | Anguar | React | Hooks | Node | Express | MongoDB | TypeScript | Tailwind | Bootstrap | Styled Components | Material UI |  CSS3 | HTML5 | Canvas | Handlebars | Passport | Heroku | Postman | Git | GitHub | Gitlab | Trello | Slack.
 
 <a href="https://github.com/loretoavoces">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=loretoavoces&show_icons=true&theme=nightowl" />
